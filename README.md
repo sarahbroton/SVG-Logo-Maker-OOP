@@ -1,5 +1,6 @@
 
-# SVG Logo Maker using Object Oriented Programming
+# SVG Logo Maker 
+    * using Object Oriented Programming
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -105,7 +106,8 @@ This project is licensed under the terms as the MIT licence found in GitHub.
 
 ## Mock-up (Screenshot)
 
-<!-- enter mock up screenshots/videos here -->
+<!-- enter mock up screenshots here -->
+<!-- enter VIDEO LINK HERE -->
 
 ## Link
 - There is *NO* link to this project
