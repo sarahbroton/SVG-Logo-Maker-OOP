@@ -1,0 +1,27 @@
+{
+  "name": "svg-logo-maker-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahbroton/SVG-Logo-Maker-OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahbroton/SVG-Logo-Maker-OOP/issues"
+  },
+  "homepage": "https://github.com/sarahbroton/SVG-Logo-Maker-OOP#readme",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
